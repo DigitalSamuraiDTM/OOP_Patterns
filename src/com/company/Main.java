@@ -1,6 +1,10 @@
 package com.company;
 
 
+import com.company.typesMoving.CarMove;
+import com.company.typesMoving.FlyMove;
+import com.company.typesMoving.RunMove;
+
 //Шаблон стратегия. Поведенческий шаблон.
 //Реализуем несколько алгоритмов на основе созданного интерфейса
 //В основном классе создаем свойство на основе интерфейса

@@ -1,4 +1,6 @@
-package com.company;
+package com.company.typesMoving;
+
+import com.company.TypesMove;
 
 public class FlyMove implements TypesMove {
     @Override
