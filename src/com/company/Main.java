@@ -1,7 +1,8 @@
 package com.company;
 
 //Шаблон Фабричный метод
-
+//Тот же шаблон стратегия, только с генерацией объектов
+//как говорил великий: фабричный метод - стратегия создания объектов
 
 import com.company.Difficults.EasyLife;
 import com.company.Difficults.HardLife;
